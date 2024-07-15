@@ -1,6 +1,6 @@
 ## 🔔 About Me
 
-```bash
+```
 📂 /dev/sda3
     L📂 /Home/User
         L📂 /User/Fen36
@@ -11,6 +11,6 @@
             L📃 OS = "Arch Linux, Windows 10"
             L📂 hobbies = "Programming, Gaming"
 ```
-```bash
+```
 Discord token 2oGqoIeWHpqBbsQ99OdltSduP5PYQiL8XS6EFBpxQJHm9fz17a4P2qaAwQE
 ```
